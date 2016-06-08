@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:47.244088
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:43
 #+TITLE: 惠運律師書目錄
 #+PROPERTY: CBETA_ID T55n2168B
 #+PROPERTY: ID KR6s0115
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2168B
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0115_T_000-1089a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0115_T_001-1089a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2168B¶
-
- 惠運律師書目錄¶
+No. 2168B¶
+惠運律師書目錄¶
 ¶
 
 請來經儀軌等合二百二十二卷。¶
@@ -217,7 +216,7 @@ No.2168B¶
   * 《蘇州報恩寺政興大師碑銘一帖》¶
   * 《七曜星辰別行法一卷》(一行造)¶
   * 《大王歌》一部二卷(一行述)¶
-  * 《六王歌》一部二卷¶
+  * 《六王歌》¶
   * 《梁朝志公和尚歌一卷》¶
   * 《孟蘭盆經記一卷》¶
   * 《梵字經四夾》¶
